@@ -3,7 +3,7 @@
 <!--
 **Military-axe/Military-axe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-🔭 I’m currently working on Team233, which is a CTF team fo GZHU
+🔭 I’m currently working on and my [personal blog](https://mi1itray_axe.gitee.io/) Team233, which is a CTF team of GZHU a
 
 🌱 I’m currently learning re in windows
 
@@ -11,5 +11,5 @@
 
 📫 How to reach me: mi1itray.axe@gmail.com
 
-Welcome to my [Personal blog](https://mi1itray_axe.gitee.io/)
+
 
