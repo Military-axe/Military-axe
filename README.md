@@ -1,4 +1,3 @@
-![image](https://tva1.sinaimg.cn/large/007S8ZIlgy1ghh1q60sm2j317e0u0trj.jpg)
 
 ### Hi there 👋
 
