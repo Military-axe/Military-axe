@@ -1,4 +1,4 @@
-![image.png](https://i.loli.net/2020/08/07/VGeYrSPT1qF5kOg.png)
+![image.png](https://i.loli.net/2020/08/07/zoRJGrg6Djx1VlZ.png)
 
 ### Hi there 👋
 
